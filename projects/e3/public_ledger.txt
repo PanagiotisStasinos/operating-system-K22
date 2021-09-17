@@ -1,0 +1,192 @@
+time : Fri Dec 21 23:08:40 2018
+Type S	 free 10/10
+Type M	 free 4/4
+Type L	 free 1/2
+amount : 0.00
+
+time : Fri Dec 21 23:08:42 2018
+Type S	 free 10/10
+Type M	 free 3/4
+Type L	 free 0/2
+amount : 0.00
+
+time : Fri Dec 21 23:08:44 2018
+Type S	 free 9/10
+Type M	 free 2/4
+Type L	 free 0/2
+amount : 0.00
+
+time : Fri Dec 21 23:08:46 2018
+Type S	 free 9/10
+Type M	 free 1/4
+Type L	 free 0/2
+amount : 0.00
+
+time : Fri Dec 21 23:08:48 2018
+Type S	 free 8/10
+Type M	 free 1/4
+Type L	 free 0/2
+amount : 0.00
+
+time : Fri Dec 21 23:08:50 2018
+Type S	 free 7/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 40.00
+
+time : Fri Dec 21 23:08:52 2018
+Type S	 free 6/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 40.00
+
+time : Fri Dec 21 23:08:54 2018
+Type S	 free 5/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 40.00
+
+time : Fri Dec 21 23:08:56 2018
+Type S	 free 5/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 77.50
+
+time : Fri Dec 21 23:08:58 2018
+Type S	 free 4/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 112.50
+
+time : Fri Dec 21 23:09:00 2018
+Type S	 free 3/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 112.50
+
+time : Fri Dec 21 23:09:02 2018
+Type S	 free 4/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 295.00
+
+time : Fri Dec 21 23:09:04 2018
+Type S	 free 6/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 383.33
+
+time : Fri Dec 21 23:09:06 2018
+Type S	 free 6/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 383.33
+
+time : Fri Dec 21 23:09:08 2018
+Type S	 free 6/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 383.33
+
+time : Fri Dec 21 23:09:10 2018
+Type S	 free 8/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 480.00
+
+time : Fri Dec 21 23:09:12 2018
+Type S	 free 9/10
+Type M	 free 0/4
+Type L	 free 0/2
+amount : 575.00
+
+time : Fri Dec 21 23:09:14 2018
+Type S	 free 9/10
+Type M	 free 1/4
+Type L	 free 0/2
+amount : 600.00
+
+time : Fri Dec 21 23:09:16 2018
+Type S	 free 10/10
+Type M	 free 2/4
+Type L	 free 0/2
+amount : 660.83
+
+time : Fri Dec 21 23:09:18 2018
+Type S	 free 10/10
+Type M	 free 2/4
+Type L	 free 0/2
+amount : 660.83
+
+time : Fri Dec 21 23:09:20 2018
+Type S	 free 10/10
+Type M	 free 2/4
+Type L	 free 0/2
+amount : 736.83
+
+time : Fri Dec 21 23:09:22 2018
+Type S	 free 10/10
+Type M	 free 2/4
+Type L	 free 0/2
+amount : 736.83
+
+time : Fri Dec 21 23:09:24 2018
+Type S	 free 10/10
+Type M	 free 3/4
+Type L	 free 0/2
+amount : 822.83
+
+time : Fri Dec 21 23:09:26 2018
+Type S	 free 10/10
+Type M	 free 4/4
+Type L	 free 0/2
+amount : 862.83
+
+time : Fri Dec 21 23:09:28 2018
+Type S	 free 10/10
+Type M	 free 4/4
+Type L	 free 0/2
+amount : 862.83
+
+time : Fri Dec 21 23:09:30 2018
+Type S	 free 10/10
+Type M	 free 4/4
+Type L	 free 0/2
+amount : 862.83
+
+time : Fri Dec 21 23:09:32 2018
+Type S	 free 10/10
+Type M	 free 4/4
+Type L	 free 1/2
+amount : 914.83
+
+time : Fri Dec 21 23:09:34 2018
+Type S	 free 10/10
+Type M	 free 4/4
+Type L	 free 1/2
+amount : 914.83
+
+time : Fri Dec 21 23:09:36 2018
+Type S	 free 10/10
+Type M	 free 4/4
+Type L	 free 1/2
+amount : 914.83
+
+time : Fri Dec 21 23:09:38 2018
+Type S	 free 10/10
+Type M	 free 4/4
+Type L	 free 1/2
+amount : 914.83
+
+time : Fri Dec 21 23:09:40 2018
+Type S	 free 10/10
+Type M	 free 4/4
+Type L	 free 1/2
+amount : 914.83
+
+time : Fri Dec 21 23:09:42 2018
+Type S	 free 10/10
+Type M	 free 4/4
+Type L	 free 2/2
+amount : 982.83
+
